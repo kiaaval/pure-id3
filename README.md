@@ -1,4 +1,4 @@
-# tennis_ml
+# pure-id3
 
 A tiny **ID3 decision tree** built from scratch in pure Python — no `scikit-learn`, no
 `pandas`, no `numpy`. It learns the classic "Play Tennis?" dataset and then predicts
